@@ -1,0 +1,24 @@
+.image_bdd{
+    width: 150px;
+    height: auto;
+}
+.bigTitle {
+    color:#ffffff;
+    background-color: black;
+    font-size:105px;
+    letter-spacing:5px;
+    font-weight: 700;
+       border:20px solid #ffffff;
+    border-radius:15px 15px 15px 15px;
+    text-decoration: none;
+}
+.bigTitle:hover {
+    color:#ffffff;
+    background-color: black;
+    font-size:105px;
+    letter-spacing:5px;
+    font-weight: 700;
+       border:20px solid #ffffff;
+    border-radius:15px 15px 15px 15px;
+     text-decoration: none;
+}

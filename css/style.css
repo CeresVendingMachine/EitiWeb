@@ -1,0 +1,269 @@
+
+
+html{
+    width: 100%;
+}
+h1,h2,h3,h4,h5,h6 {
+        font-weight: bold;
+    }
+img {
+
+}
+
+.div1
+{
+    width: 180px;
+    height: 2px;
+    background-color: black;
+    margin: 20px auto 70px;  
+}
+
+section {
+    padding-top: 75px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: 0px;
+    
+}
+section .heading {
+        padding-bottom: 8px;
+        text-transform: uppercase;
+}
+
+.sectionInscription
+{
+    margin-top: 100px;
+}
+.inscription
+{
+margin-bottom: 50px;    
+    
+}
+.footerMe {
+    background-color: black;
+    width: 100%;
+    padding-bottom: 100px;
+}
+.divider {
+    width: 180px;
+    height: 2px;
+    background-color: black;
+    margin: 0 auto 80px;   
+} 
+ul {
+        list-style: none;
+}
+
+/* --- TITLEE --- */
+
+.title {
+    position: relative;
+    
+    background-color: black;
+   
+        text-align: center;
+ 
+     padding-top: 60px;
+    padding-bottom: 40px;
+        width: 100%;
+    
+   
+}
+.bigTitle {
+    color:#ffffff;
+    background-color: black;
+    font-size:105px;
+    letter-spacing:5px;
+    font-weight: 700;
+       border:20px solid #ffffff;
+    border-radius:15px 15px 15px 15px;
+    text-decoration: none;
+}
+.bigTitle:hover {
+    color:#ffffff;
+    background-color: black;
+    font-size:105px;
+    letter-spacing:5px;
+    font-weight: 700;
+       border:20px solid #ffffff;
+    border-radius:15px 15px 15px 15px;
+     text-decoration: none;
+}
+
+
+/* --- SIDE BAR --- */
+
+.side-bar{
+    background-color: #524C4C;
+}
+
+}
+.connexion{
+    margin-top: 60px;
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    text-transform: uppercase;
+}
+
+.button1 {
+    font-weight: bold;
+    background: black;
+    text-transform: uppercase;
+    border: 1px solid black;
+        color: white;
+    padding: 18px 50px;
+    display: inline-block;
+    border-radius: 3px;
+    text-decoration: none;
+    margin-top: 70px;
+    transition: all 0.3s ease-in 0s;
+    margin-bottom: 150px;
+}
+.button1:hover {
+    background: white;
+    color: black;
+}
+
+.menubar{
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.langage{
+    margin-top:  50px;
+}
+#french{
+    background-repeat:repeat;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:cover;
+    background-image:url('/Images/FR.jpg');
+    float:left;
+    padding:15px 20px 5px 5px;
+    text-decoration:none;
+    min-height:35px;
+    width:55px;
+    margin-left: 25.5%;
+    margin-bottom: 30px;
+}
+ #english{
+    color:#ffffff;
+    background-repeat:repeat;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:cover;
+    background-image:url('/Images/EN.jpg');
+    float:right;
+    padding:15px 20px 5px 5px;
+    min-height:35px;
+    width:55px;
+     margin-right: 26%;
+}
+.img-sidebar
+{
+    margin-top: 60px;;
+}
+
+/* --- CARD --- */
+
+.cardSpace{
+    padding-bottom: 20px;
+}
+
+.card{
+    margin:50px 15% 50px 15%;
+    padding-bottom: 20%;
+}
+.card-img-top{
+    float:none;
+    background-position:center center;
+    background-size:cover;
+    height: 200px;
+    background-repeat:repeat;
+    background-attachment:scroll;
+    margin-bottom: -20px;
+    
+}
+.card-body{
+    height: 180px;
+}
+.card-title{
+    font-size:28px;
+}
+.card-subtitle{
+    font-size:17px;
+}
+.card-text{
+    font-size:18px;
+    text-align: left;
+    line-height:17x;
+    margin-top: 13px;
+}
+.picture1{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture1:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+.picture2{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture2:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+.picture3{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture3:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+.picture4{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture4:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+
+.choix
+{
+    margin-left: 50%;
+    padding: 15px 15px 15px 15px;
+}
+/* --- Email PArt --- */
+.mail{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    padding-top: 0px;
+}
+#button-addon2{
+    color: black;
+}
+.green{
+    background-color: #00FD81;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    }
+
+.title-footer{
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+}
+.subtitle-footer{
+    color:white;
+    font-weight: 200;
+
+}

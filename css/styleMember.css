@@ -1,0 +1,144 @@
+*,
+::before,
+::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Montserrat, Helvetica, sans-serif;
+    background: white;
+    text-align: center;
+}
+
+.main{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+/* --- TITLE --- */
+
+.title {
+    position: relative;
+    
+    background-color: black;
+   
+        text-align: center;
+ 
+     padding-top: 60px;
+    padding-bottom: 40px;
+        width: 100%;
+    
+   
+}
+.pres{
+    text-align: center;
+}
+.bigTitle {
+    color:#ffffff;
+    background-color: black;
+    font-size:105px;
+    letter-spacing:5px;
+    font-weight: 700;
+       border:20px solid #ffffff;
+    border-radius:15px 15px 15px 15px;
+    text-decoration: none;
+}
+.bigTitle:hover {
+    color:#ffffff;
+    background-color: black;
+    font-size:105px;
+    letter-spacing:5px;
+    font-weight: 700;
+       border:20px solid #ffffff;
+    border-radius:15px 15px 15px 15px;
+     text-decoration: none;
+}
+
+/* --- FOOTER ---- */
+footer{
+    padding-top: 65px;
+    padding-bottom: 180px;
+    text-align: center;
+}
+.footerMe {
+    background-color: black;
+}
+.title-footer{
+    font-weight: 500;
+    font-size: 30px;
+    color: white;
+}
+.subtitle-footer{
+    color:white;
+    font-weight: 200;
+
+}
+/* --- CARD --- */
+
+.cardSpace{
+    padding-bottom: 20px;
+}
+
+.card{
+    margin:50px 15% 50px 15%;
+    padding-bottom: 10px;
+}
+.card-img-top{
+    float:none;
+    background-position:center center;
+    background-size:cover;
+    height: 200px;
+    background-repeat:repeat;
+    background-attachment:scroll;
+    margin-bottom: -20px;
+    
+}
+.card-body{
+    height: auto;
+}
+.card-title{
+    font-size:28px;
+}
+
+.card-text{
+    font-size:18px;
+    text-align: left;
+    line-height:17x;
+    margin-top: 13px;
+}
+.picture1{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture1:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+.picture2{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture2:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+.picture3{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture3:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
+.picture4{
+    box-shadow:0 1px 2px 0 rgba(0, 0, 0, 0.2);
+    border-radius:2px;  
+    transition:all 0.5s ease;
+}
+.picture4:hover{
+    box-shadow:0 20px 30px 0 rgba(0, 0, 0, 0.2);   
+}
