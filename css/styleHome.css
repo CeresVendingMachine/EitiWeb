@@ -26,7 +26,7 @@ body {
     display: inline-block;
     border-radius: 3px;
     text-decoration: none;
-    margin-top: 20px;
+    margin-top: 5px; /*   avant cétais a 20 */ 
     transition: all 0.3s ease-in 0s;
 }
 .button1:hover {
@@ -54,11 +54,11 @@ body {
 
 /* --- LOGO ---- */
 .logo{
-    margin-top: 150px;
+    margin-top: 65px;   
 }
 .lo{
-    margin-top: 180px;
-    margin-bottom: 150px;
+    margin-top: 65px;      /*   avant cétais a 180 */ 
+    margin-bottom: 80px;    /*   avant cétais a 150 */ 
 }
 
 /* --- FOOTER ---- */

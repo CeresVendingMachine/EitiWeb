@@ -41,7 +41,9 @@ body {
     color:#ffffff;
     background-color: black;
     font-size:105px;
-    letter-spacing:5px;
+    letter-spacing:6px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-weight: 700;
        border:20px solid #ffffff;
     border-radius:15px 15px 15px 15px;
@@ -51,10 +53,10 @@ body {
     color:#ffffff;
     background-color: black;
     font-size:105px;
-    letter-spacing:5px;
+    letter-spacing:6px;
     font-weight: 700;
-       border:20px solid #ffffff;
-    border-radius:15px 15px 15px 15px;
+       border:16px solid #ffffff;
+    border-radius:10px 10px 10px 10px;
      text-decoration: none;
 }
 
@@ -84,17 +86,17 @@ footer{
 }
 
 .card{
-    margin:50px 15% 50px 15%;
+    margin:10px 28.5% 10px 28.5%;
     padding-bottom: 10px;
 }
 .card-img-top{
     float:none;
     background-position:center center;
     background-size:cover;
-    height: 200px;
+    height: 260px;
     background-repeat:repeat;
     background-attachment:scroll;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
     
 }
 .card-body{
@@ -102,11 +104,12 @@ footer{
 }
 .card-title{
     font-size:28px;
+    text-align: center;
 }
 
 .card-text{
     font-size:18px;
-    text-align: left;
+    text-align: center;
     line-height:17x;
     margin-top: 13px;
 }

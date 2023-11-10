@@ -36,7 +36,9 @@ body {
     color:#ffffff;
     background-color: black;
     font-size:105px;
-    letter-spacing:5px;
+    letter-spacing:6px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-weight: 700;
        border:20px solid #ffffff;
     border-radius:15px 15px 15px 15px;
@@ -46,13 +48,12 @@ body {
     color:#ffffff;
     background-color: black;
     font-size:105px;
-    letter-spacing:5px;
+    letter-spacing:6px;
     font-weight: 700;
-       border:20px solid #ffffff;
-    border-radius:15px 15px 15px 15px;
+       border:16px solid #ffffff;
+    border-radius:10px 10px 10px 10px;
      text-decoration: none;
 }
-
 /* --- FOOTER ---- */
 footer{
     padding-top: 65px;
