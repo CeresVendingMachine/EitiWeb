@@ -54,11 +54,11 @@ body {
 
 /* --- LOGO ---- */
 .logo{
-    margin-top: 65px;   
+    margin-top: 5px;   
 }
 .lo{
-    margin-top: 65px;      /*   avant cétais a 180 */ 
-    margin-bottom: 80px;    /*   avant cétais a 150 */ 
+    margin-top: 5px;      /*   avant cétais a 180 */ 
+    margin-bottom: 40px;    /*   avant cétais a 150 */ 
 }
 
 /* --- FOOTER ---- */
