@@ -58,11 +58,12 @@ body {
 }
 .lo{
     margin-top: 60px;      /*   avant cétais a 180 */ 
-    margin-bottom: 90px;    /*   avant cétais a 150 */ 
+    margin-bottom: 200px;    /*   avant cétais a 150 */ 
 }
 
 /* --- FOOTER ---- */
 footer{
+    margin-top: 250px;
     padding-top: 65px;
     padding-bottom: 180px;
     text-align: center;
